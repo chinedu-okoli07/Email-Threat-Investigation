@@ -24,7 +24,7 @@ The report examines phishing, BEC, credential harvesting, lottery scams, recruit
 - Security reporting
 
 ## Report
-See `Email_Threat_Investigation_Report.pdf`
+See `(https://github.com/chinedu-okoli07/Email-Threat-Investigation/blob/main/Email%20Threat%20Investigation%20%26%20Analysis%20(2).pdf)`
 
 ---
 
