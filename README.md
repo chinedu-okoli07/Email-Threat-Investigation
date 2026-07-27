@@ -178,7 +178,7 @@ I'm continuously building hands-on cybersecurity projects to strengthen my techn
 
 **GitHub:** https://github.com/chinedu-okoli07
 
-**LinkedIn:** *(Add your LinkedIn profile here)*
+**LinkedIn:** https://www.linkedin.com/in/chinedu-okoli-0a7347187?
 
 ---
 
