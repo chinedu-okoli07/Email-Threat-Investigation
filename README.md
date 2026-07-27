@@ -2,7 +2,6 @@
 
 ## Overview
 
-# Email Threat Investigation & Analysis
 
 This project documents a full investigation of 13 suspicious emails using header analysis, OSINT, and IOC reporting.
 
