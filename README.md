@@ -2,9 +2,30 @@
 
 ## Overview
 
-This project demonstrates a structured investigation of suspicious email samples using email header analysis, authentication checks, threat intelligence, and Indicators of Compromise (IOCs).
+# Email Threat Investigation & Analysis
 
-The objective was to determine whether each email was legitimate or malicious and document the findings following a Security Operations Center (SOC) investigation workflow.
+This project documents a full investigation of 13 suspicious emails using header analysis, OSINT, and IOC reporting.
+
+## Overview
+The report examines phishing, BEC, credential harvesting, lottery scams, recruitment scams, and malware delivery attempts.
+
+## Tools Used
+- VirusTotal
+- MXToolbox
+- Hunter.io
+- WHOIS Lookup
+- Email header analysis
+
+## Skills Demonstrated
+- Email security analysis
+- Threat intelligence
+- Phishing detection
+- Business Email Compromise analysis
+- IOC identification
+- Security reporting
+
+## Report
+See `Email_Threat_Investigation_Report.pdf`
 
 ---
 
